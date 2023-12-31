@@ -1,0 +1,194 @@
+[
+    {
+        "id": "14bd933e-83b7-464d-9a4d-d8c8eb9682ab",
+        "category": "Catalog Management",
+        "subcategory": "Designs",
+        "function": "Create new design",
+        "description": "Create new Meshery design",
+        "owner": "00000000-0000-0000-0000-000000000000"
+    },
+    {
+        "id": "cc040d21-3160-4a96-8efa-833487a234cd",
+        "category": "Catalog Management",
+        "subcategory": "Designs",
+        "function": "Import Design",
+        "description": "Import a design",
+        "owner": "00000000-0000-0000-0000-000000000000"
+    },
+    {
+        "id": "9e66bdec-4177-42f9-8cec-d9eb52a12c38",
+        "category": "Catalog Management",
+        "subcategory": "Designs",
+        "function": "Publish Design",
+        "description": "Publish a design",
+        "owner": "00000000-0000-0000-0000-000000000000"
+    },
+    {
+        "id": "c1595c90-b85b-4ac7-b921-f08959926db3",
+        "category": "Catalog Management",
+        "subcategory": "Designs",
+        "function": "Unpublish Design",
+        "description": "Unpublish a design",
+        "owner": "00000000-0000-0000-0000-000000000000"
+    },
+    {
+        "id": "da5339dd-a4bc-4b91-8865-d8a703656516",
+        "category": "Catalog Management",
+        "subcategory": "Designs",
+        "function": "Validate Design",
+        "description": "Validate a design",
+        "owner": "00000000-0000-0000-0000-000000000000"
+    },
+    {
+        "id": "595b921a-ea1e-4611-83f0-503db0eeb94d",
+        "category": "Catalog Management",
+        "subcategory": "Designs",
+        "function": "Deploy Design",
+        "description": "Deploy a design",
+        "owner": "00000000-0000-0000-0000-000000000000"
+    },
+    {
+        "id": "10a03036-53a0-40b3-9f69-6daab852e434",
+        "category": "Catalog Management",
+        "subcategory": "Designs",
+        "function": "Details of design",
+        "description": "Check information or details of a design",
+        "owner": "00000000-0000-0000-0000-000000000000"
+    },
+    {
+        "id": "7f2b7084-4533-4824-b688-50cf35de7ef8",
+        "category": "Catalog Management",
+        "subcategory": "Designs",
+        "function": "Edit design",
+        "description": "Edit a design",
+        "owner": "00000000-0000-0000-0000-000000000000"
+    },
+    {
+        "id": "f024fcf7-3c3d-4521-b83e-6d659353ca0e",
+        "category": "Catalog Management",
+        "subcategory": "Designs",
+        "function": "Delete a design",
+        "description": "Delete a design",
+        "owner": "00000000-0000-0000-0000-000000000000"
+    },
+    {
+        "id": "64de96b7-60db-4aab-b311-afc64066b2c4",
+        "category": "Catalog Management",
+        "subcategory": "Designs",
+        "function": "Download a design",
+        "description": "Download a design",
+        "owner": "00000000-0000-0000-0000-000000000000"
+    },
+    {
+        "id": "cb79d7fb-19de-45fa-aaf5-0a0afc832bf8",
+        "category": "Catalog Management",
+        "subcategory": "Filters",
+        "function": "Import Filter",
+        "description": "Import a filter",
+        "owner": "00000000-0000-0000-0000-000000000000"
+    },
+    {
+        "id": "173d99b7-3820-4c0c-88b2-a8455bd7a6b5",
+        "category": "Catalog Management",
+        "subcategory": "Filters",
+        "function": "Publish WASM Filter",
+        "description": "Publish WASM Filter",
+        "owner": "00000000-0000-0000-0000-000000000000"
+    },
+    {
+        "id": "773f0a4d-ba04-40ed-9298-59ac8749804a",
+        "category": "Catalog Management",
+        "subcategory": "Filters",
+        "function": "Unpublish WASM Filter",
+        "description": "Unpublish WASM Filter",
+        "owner": "00000000-0000-0000-0000-000000000000"
+    },
+    {
+        "id": "24325b2c-5e08-4ba8-809f-8a4a1bf91084",
+        "category": "Catalog Management",
+        "subcategory": "Filters",
+        "function": "Download a WASM filter",
+        "description": "Download a WASM filter",
+        "owner": "00000000-0000-0000-0000-000000000000"
+    },
+    {
+        "id": "86c457b5-b9ec-4223-af1f-30a5be67d69d",
+        "category": "Catalog Management",
+        "subcategory": "Filters",
+        "function": "Details of WASM Filter",
+        "description": "Check information or details of a WASM filter",
+        "owner": "00000000-0000-0000-0000-000000000000"
+    },
+    {
+        "id": "88cd144e-806e-472a-a31a-ef6d64643291",
+        "category": "Catalog Management",
+        "subcategory": "Filters",
+        "function": "Edit WASM filter",
+        "description": "Edit WASM filter",
+        "owner": "00000000-0000-0000-0000-000000000000"
+    },
+    {
+        "id": "fce15b20-78ac-42af-b79c-b8f19bdb0802",
+        "category": "Lifecycle Management",
+        "subcategory": "Connections",
+        "function": "Add cluster",
+        "description": "Add Kubernetes cluster",
+        "owner": "00000000-0000-0000-0000-000000000000"
+    },
+    {
+        "id": "14ac9622-3170-4580-8403-ed7a584f90ef",
+        "category": "Lifecycle Management",
+        "subcategory": "Connections",
+        "function": "Change connection state",
+        "description": "Change connection state",
+        "owner": "00000000-0000-0000-0000-000000000000"
+    },
+    {
+        "id": "8dd4c54a-bccd-4fb3-a18c-269195653a91",
+        "category": "Lifecycle Management",
+        "subcategory": "Connections",
+        "function": "Flush Meshsync data",
+        "description": "Clearing the database by clicking on the `Flush MeshSync`",
+        "owner": "00000000-0000-0000-0000-000000000000"
+    },
+    {
+        "id": "214ad6b1-df4d-44a6-8872-8ad1f751ef68",
+        "category": "Lifecycle Management",
+        "subcategory": "Connections",
+        "function": "Register discovered Meshsync resource",
+        "description": "Register discovered Meshsync resource to change state to connection",
+        "owner": "00000000-0000-0000-0000-000000000000"
+    },
+    {
+        "id": "61afb8c2-cda6-4175-aad9-74ff87fed323",
+        "category": "Lifecycle Management",
+        "subcategory": "Connections",
+        "function": "Delete a connection",
+        "description": "Delete a connection",
+        "owner": "00000000-0000-0000-0000-000000000000"
+    },
+    {
+        "id": "24f41e98-7ce1-40c4-a82d-4ae0294d237d",
+        "category": "Meshery Extension Management",
+        "subcategory": "Extensions",
+        "function": "Install extension",
+        "description": "Install or enable or disabble extensions in Meshery",
+        "owner": "00000000-0000-0000-0000-000000000000"
+    },
+    {
+        "id": "cdec6212-bbbf-4cab-b10d-76d12bee7e56",
+        "category": "Meshery Extension Management",
+        "subcategory": "Extensions",
+        "function": "Meshery UI: Menu, User Prefs",
+        "description": "",
+        "owner": "00000000-0000-0000-0000-000000000000"
+    },
+    {
+        "id": "c1330df4-1bbe-4d5d-8828-f4bd9ee989e5",
+        "category": "Meshery Extension Management",
+        "subcategory": "Extensions",
+        "function": "View Extensions",
+        "description": "View all extensions on the extension page",
+        "owner": "00000000-0000-0000-0000-000000000000"
+    }
+]
